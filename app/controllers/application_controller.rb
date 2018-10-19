@@ -1,5 +1,6 @@
 class ApplicationController < ActionController::Base
-def index
+    def index
         render "hello"
     end
 end
+
